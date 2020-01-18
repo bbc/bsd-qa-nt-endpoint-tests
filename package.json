@@ -1,0 +1,22 @@
+{
+  "name": "mocha_lab_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-json-schema": "^1.5.1",
+    "mocha": "^6.2.0",
+    "request": "^2.88.0",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "chai-http": "^4.3.0",
+    "js-interpreter": "^1.4.6"
+  }
+}

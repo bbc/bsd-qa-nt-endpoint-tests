@@ -1,0 +1,22 @@
+{
+    "publishMediaitem": {
+        "category": {
+            "id": 3,
+            "name": "Sequence"
+        },
+              "clipName": "test placeholder 06_09_2019 12:37",
+        "date": "2019-09-06T12:37:25.648Z",
+              "details": "ivan placeholder 7",
+        "description": "Test",
+        "outlet": {
+            "id": 1,
+            "name": "News"
+        },
+        "schemaVersion": "1-0-22",
+        "status": {
+            "id": 5,
+            "name": "Placeholder"
+        },
+        "story": "zzivan"
+    }
+}
